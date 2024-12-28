@@ -1,4 +1,8 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://soymadip.me/notes/</link><image><url>https://soymadip.me/notes/lib/media/favicon.png</url><title>Notes</title><link>https://soymadip.me/notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 28 Dec 2024 19:21:01 GMT</lastBuildDate><atom:link href="https://soymadip.me/notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 28 Dec 2024 19:21:01 GMT</pubDate><copyright><![CDATA[soymadip]]></copyright><ttl>60</ttl><dc:creator>soymadip</dc:creator><item><title><![CDATA[index]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://soymadip.me/notes/</link><image><url>https://soymadip.me/notes/lib/media/favicon.png</url><title>Notes</title><link>https://soymadip.me/notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 28 Dec 2024 19:44:50 GMT</lastBuildDate><atom:link href="https://soymadip.me/notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 28 Dec 2024 19:44:49 GMT</pubDate><copyright><![CDATA[soymadip]]></copyright><ttl>60</ttl><dc:creator>soymadip</dc:creator><item><title><![CDATA[index]]></title><description><![CDATA[ 
+ <br>
+
+<br>Welcome to my personal collection of C++ programming notes! 🎉<br>
+This site is a structured and concise resource for learning and revisiting key concepts in C++.]]></description><link>https://soymadip.me/notes/6.-c++/index.html</link><guid isPermaLink="false">6. C++/index.md</guid><dc:creator><![CDATA[soymadip]]></dc:creator><pubDate>Sat, 28 Dec 2024 19:44:42 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[ 
  ]]></description><link>https://soymadip.me/notes/0.roadmap/index.html</link><guid isPermaLink="false">0.RoadMap/index.md</guid><dc:creator><![CDATA[soymadip]]></dc:creator><pubDate>Sat, 28 Dec 2024 17:49:45 GMT</pubDate></item><item><title><![CDATA[Road-Map]]></title><description><![CDATA[ 
  ]]></description><link>https://soymadip.me/notes/0.roadmap/road-map.html</link><guid isPermaLink="false">0.RoadMap/Road-Map.md</guid><dc:creator><![CDATA[soymadip]]></dc:creator><pubDate>Sat, 26 Aug 2023 17:40:43 GMT</pubDate></item><item><title><![CDATA[Md]]></title><description><![CDATA[ 
  <br>
@@ -6636,8 +6640,7 @@ Ints         Floats        Doubles
 
 The text with tabs
 IntsFloatsDoubles
-<br>]]></description><link>https://soymadip.me/notes/6.-c++/formatting-output.html</link><guid isPermaLink="false">6. C++/Formatting Output.md</guid><dc:creator><![CDATA[soymadip]]></dc:creator><pubDate>Sat, 28 Dec 2024 06:45:49 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[ 
- <br>this is c++]]></description><link>https://soymadip.me/notes/6.-c++/index.html</link><guid isPermaLink="false">6. C++/index.md</guid><dc:creator><![CDATA[soymadip]]></dc:creator><pubDate>Sat, 28 Dec 2024 16:21:21 GMT</pubDate></item><item><title><![CDATA[Docs]]></title><description><![CDATA[ 
+<br>]]></description><link>https://soymadip.me/notes/6.-c++/formatting-output.html</link><guid isPermaLink="false">6. C++/Formatting Output.md</guid><dc:creator><![CDATA[soymadip]]></dc:creator><pubDate>Sat, 28 Dec 2024 06:45:49 GMT</pubDate></item><item><title><![CDATA[Docs]]></title><description><![CDATA[ 
  <br><br>SHIFT<br>
 CAPS<br>
 CTRL/CONTROL<br>
