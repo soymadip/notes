@@ -1,28 +1,24 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://soymadip.me/notes/</link><image><url>https://soymadip.me/notes/lib/media/favicon.png</url><title>Notes</title><link>https://soymadip.me/notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 28 Dec 2024 19:11:04 GMT</lastBuildDate><atom:link href="https://soymadip.me/notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 28 Dec 2024 19:11:04 GMT</pubDate><copyright><![CDATA[soymadip]]></copyright><ttl>60</ttl><dc:creator>soymadip</dc:creator><item><title><![CDATA[index]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://soymadip.me/notes/</link><image><url>https://soymadip.me/notes/lib/media/favicon.png</url><title>Notes</title><link>https://soymadip.me/notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 28 Dec 2024 19:21:01 GMT</lastBuildDate><atom:link href="https://soymadip.me/notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 28 Dec 2024 19:21:01 GMT</pubDate><copyright><![CDATA[soymadip]]></copyright><ttl>60</ttl><dc:creator>soymadip</dc:creator><item><title><![CDATA[index]]></title><description><![CDATA[ 
  ]]></description><link>https://soymadip.me/notes/0.roadmap/index.html</link><guid isPermaLink="false">0.RoadMap/index.md</guid><dc:creator><![CDATA[soymadip]]></dc:creator><pubDate>Sat, 28 Dec 2024 17:49:45 GMT</pubDate></item><item><title><![CDATA[Road-Map]]></title><description><![CDATA[ 
  ]]></description><link>https://soymadip.me/notes/0.roadmap/road-map.html</link><guid isPermaLink="false">0.RoadMap/Road-Map.md</guid><dc:creator><![CDATA[soymadip]]></dc:creator><pubDate>Sat, 26 Aug 2023 17:40:43 GMT</pubDate></item><item><title><![CDATA[Md]]></title><description><![CDATA[ 
  <br>
 <br>Better Footnote:- 
-<br>Here it is<a data-footref="[inline0" href="https://soymadip.me/notes/about:blank#fn-1-0e65f28959763ed8" class="footnote-link" target="_self" rel="noopener nofollow">[1]</a><br><br>
+<br>Here it is<a data-footref="[inline0" href="https://soymadip.me/notes/about:blank#fn-1-faa08197830e8a49" class="footnote-link" target="_self" rel="noopener nofollow">[1]</a><br><br>
 <br>Footnote with link:- 
-<br>Here it is<a data-footref="[inline1" href="https://soymadip.me/notes/about:blank#fn-2-0e65f28959763ed8" class="footnote-link" target="_self" rel="noopener nofollow">[2]</a><br><br>
+<br>Here it is<a data-footref="[inline1" href="https://soymadip.me/notes/about:blank#fn-2-faa08197830e8a49" class="footnote-link" target="_self" rel="noopener nofollow">[2]</a><br><br>
 <br>Block link:- 
 <br>Here is backlink to 32 page's block:- <br>“32 - Set Methods#^732c24” is not created yet. Click to create.<br><br>
 <br>
 <br>
 <br>
-<br>this is footnote<a href="https://soymadip.me/notes/about:blank#fnref-1-0e65f28959763ed8" class="footnote-backref footnote-link" target="_self" rel="noopener nofollow">↩︎</a>
-<br><a data-tooltip-position="top" aria-label="32 - Set Methods" data-href="32 - Set Methods" href="https://soymadip.me/notes/32 - Set Methods" class="internal-link" target="_self" rel="noopener nofollow">Link to day 32</a><a href="https://soymadip.me/notes/about:blank#fnref-2-0e65f28959763ed8" class="footnote-backref footnote-link" target="_self" rel="noopener nofollow">↩︎</a>
+<br>this is footnote<a href="https://soymadip.me/notes/about:blank#fnref-1-faa08197830e8a49" class="footnote-backref footnote-link" target="_self" rel="noopener nofollow">↩︎</a>
+<br><a data-tooltip-position="top" aria-label="32 - Set Methods" data-href="32 - Set Methods" href="https://soymadip.me/notes/32 - Set Methods" class="internal-link" target="_self" rel="noopener nofollow">Link to day 32</a><a href="https://soymadip.me/notes/about:blank#fnref-2-faa08197830e8a49" class="footnote-backref footnote-link" target="_self" rel="noopener nofollow">↩︎</a>
 ]]></description><link>https://soymadip.me/notes/1.-python/•-my-doubts/md.html</link><guid isPermaLink="false">1. Python/• MY Doubts/Md.md</guid><dc:creator><![CDATA[soymadip]]></dc:creator><pubDate>Thu, 06 Jul 2023 10:48:58 GMT</pubDate></item><item><title><![CDATA[My Doubts]]></title><description><![CDATA[ 
  <br><br>Written in: Obsidian-Markdown Format<br><br><br>Info
  This is my Doubt Page
-<br><br><br><br><br><br><br><br><br><br><br>insert() is used to insert only one item in given index:-<br>colors.insert(1, "green")   #inserts item at index 1
-<br>append() is used to insert only one item at the end of the list:-<br>colors.append("green")   #inserts "green" at the end.
-<br>extend() is used to insert a list at the end:-<br>n = [1,2,3,4]
-colors.extend(n)   #inserts n list at the end of colours list
-<br><br><br><br> Match 2 condition in if statement:<br>
+<br><br><br><br><br><br><br><br><br><br><br><br> Match 2 condition in if statement:<br>
 <br>we need to use 'and' to match 2 conditions in ' if ' statement. 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>This is normal text]]></description><link>https://soymadip.me/notes/1.-python/•-my-doubts/my-doubts.html</link><guid isPermaLink="false">1. Python/• MY Doubts/My Doubts.md</guid><dc:creator><![CDATA[soymadip]]></dc:creator><pubDate>Mon, 28 Aug 2023 17:05:37 GMT</pubDate></item><item><title><![CDATA[VS Code extensions]]></title><description><![CDATA[ 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>This is normal text]]></description><link>https://soymadip.me/notes/1.-python/•-my-doubts/my-doubts.html</link><guid isPermaLink="false">1. Python/• MY Doubts/My Doubts.md</guid><dc:creator><![CDATA[soymadip]]></dc:creator><pubDate>Mon, 28 Aug 2023 17:05:37 GMT</pubDate></item><item><title><![CDATA[VS Code extensions]]></title><description><![CDATA[ 
  <br>
 <br>Markdown Preview Opener
 <br>Nord Theme
@@ -127,7 +123,7 @@ because if we create a variable of same name, "" will indicate that we are refer
 
 <br><br>All unreal numbers.<br>
 <br>Example: 6 + 2i 
-<br><br>Boolean data consists of values True or False.<br><br><br>A list is an ordered<a data-footref="ord" href="https://soymadip.me/notes/about:blank#fn-1-0e65f28959763ed8" class="footnote-link" target="_self" rel="noopener nofollow">[1]</a> collection of data with elements separated by a comma and enclosed within square brackets. <br>
+<br><br>Boolean data consists of values True or False.<br><br><br>A list is an ordered<a data-footref="ord" href="https://soymadip.me/notes/about:blank#fn-1-faa08197830e8a49" class="footnote-link" target="_self" rel="noopener nofollow">[1]</a> collection of data with elements separated by a comma and enclosed within square brackets. <br>
 <br>
 Lists are mutable and can be modified after creation.
 
@@ -141,7 +137,7 @@ print(list1)
 <br>[8, 2.3, [-4, 5], ['apple', 'banana']]
 <br> Note
 As shown in example, Lists Can contain other lists
-<br><br>A tuple is an ordered<a data-footref="ord" href="https://soymadip.me/notes/about:blank#fn-1-0e65f28959763ed8" class="footnote-link" target="_self" rel="noopener nofollow">[1-1]</a> collection of data with elements separated by a comma and enclosed within parentheses.<br>
+<br><br>A tuple is an ordered<a data-footref="ord" href="https://soymadip.me/notes/about:blank#fn-1-faa08197830e8a49" class="footnote-link" target="_self" rel="noopener nofollow">[1-1]</a> collection of data with elements separated by a comma and enclosed within parentheses.<br>
 <br>
 Tuples are immutable and can not be modified after creation. 
 
@@ -153,7 +149,7 @@ print(tuple1)
 <br>
 <br>Output:
 <br>(('parrot', 'sparrow'), ('Lion', 'Tiger'))
-<br><br><br>A dictionary is an unordered<a data-footref="uord" href="https://soymadip.me/notes/about:blank#fn-2-0e65f28959763ed8" class="footnote-link" target="_self" rel="noopener nofollow">[2]</a> collection of data containing a key:value pair. <br>
+<br><br><br>A dictionary is an unordered<a data-footref="uord" href="https://soymadip.me/notes/about:blank#fn-2-faa08197830e8a49" class="footnote-link" target="_self" rel="noopener nofollow">[2]</a> collection of data containing a key:value pair. <br>
 <br>
 The key:value pairs are enclosed within curly brackets.
 
@@ -167,8 +163,8 @@ print(dict1)
 <br>{'name': 'Sakshi', 'age': 20, 'canVote': True}
 <br><br><br><br><br><br>
 <br>
-<br>Ordered data types are a type of data type that has a natural ordering or ranking. In other words, the values in an ordered data type can be put in a one-to-one correspondence with the positive integers. This means that each value can be assigned a unique position or ranking, and the values can be compared to determine their relative order. In other terms, they have an index number.<a href="https://soymadip.me/notes/about:blank#fnref-1-0e65f28959763ed8" class="footnote-backref footnote-link" target="_self" rel="noopener nofollow">↩︎</a><a href="https://soymadip.me/notes/about:blank#fnref-1-1-0e65f28959763ed8" class="footnote-backref footnote-link" target="_self" rel="noopener nofollow">↩︎</a>
-<br>Types of data that doesn't have index numbers.<a href="https://soymadip.me/notes/about:blank#fnref-2-0e65f28959763ed8" class="footnote-backref footnote-link" target="_self" rel="noopener nofollow">↩︎</a>
+<br>Ordered data types are a type of data type that has a natural ordering or ranking. In other words, the values in an ordered data type can be put in a one-to-one correspondence with the positive integers. This means that each value can be assigned a unique position or ranking, and the values can be compared to determine their relative order. In other terms, they have an index number.<a href="https://soymadip.me/notes/about:blank#fnref-1-faa08197830e8a49" class="footnote-backref footnote-link" target="_self" rel="noopener nofollow">↩︎</a><a href="https://soymadip.me/notes/about:blank#fnref-1-1-faa08197830e8a49" class="footnote-backref footnote-link" target="_self" rel="noopener nofollow">↩︎</a>
+<br>Types of data that doesn't have index numbers.<a href="https://soymadip.me/notes/about:blank#fnref-2-faa08197830e8a49" class="footnote-backref footnote-link" target="_self" rel="noopener nofollow">↩︎</a>
 ]]></description><link>https://soymadip.me/notes/1.-python/1.-procedural/day-1-28/3-variables-and-data-types.html</link><guid isPermaLink="false">1. Python/1. Procedural/Day 1 - 28/3- Variables and Data Types.md</guid><dc:creator><![CDATA[soymadip]]></dc:creator><pubDate>Sun, 07 Jul 2024 10:20:34 GMT</pubDate></item><item><title><![CDATA[What is Type Casting?]]></title><description><![CDATA[ 
  <br><br>Type casting is the process of converting one data type to another data type.<br>Info
 Type Casting is also known as Type converting.
@@ -195,14 +191,7 @@ print(15/6)
 print(15//6)
 print(5%3)
 print(2**4)
-<br><br>8 - Ex1 ~Solution<br><br>a = 50
-b = 3
-
-print("The value of", a, "+", 3, "is: ", a + b)
-print("The value of", a, "-", 3, "is: ", a - b)
-print("The value of", a, "*", 3, "is: ", a * b)
-print("The value of", a, "/", 3, "is: ", a / b)
-<br>]]></description><link>https://soymadip.me/notes/1.-python/1.-procedural/day-1-28/7-exercise-1-(calculator).html</link><guid isPermaLink="false">1. Python/1. Procedural/Day 1 - 28/7 - Exercise 1 (calculator).md</guid><dc:creator><![CDATA[soymadip]]></dc:creator><pubDate>Sat, 07 Oct 2023 05:56:35 GMT</pubDate></item><item><title><![CDATA[8 - Ex1 ~Solution]]></title><description><![CDATA[ 
+<br><br>8 - Ex1 ~Solution<br><br>]]></description><link>https://soymadip.me/notes/1.-python/1.-procedural/day-1-28/7-exercise-1-(calculator).html</link><guid isPermaLink="false">1. Python/1. Procedural/Day 1 - 28/7 - Exercise 1 (calculator).md</guid><dc:creator><![CDATA[soymadip]]></dc:creator><pubDate>Sat, 07 Oct 2023 05:56:35 GMT</pubDate></item><item><title><![CDATA[8 - Ex1 ~Solution]]></title><description><![CDATA[ 
  <br>a = 50
 b = 3
 
@@ -549,21 +538,7 @@ print(timestamp)
 timestamp = time.strftime('%S')
 print(timestamp)
 # https://docs.python.org/3/library/time.html#time.strftime
-<br><br><br><br>
-import time
-t = time.strftime('%H:%M:%S') 
-hour = int(time.strftime('%H'))
-# hour = int(input("Enter hour: "))
-# print(hour)
-
-if(hour&gt;=0 and hour&lt;12):
-  print("Good Morning Sir!")
-elif(hour&gt;=12 and hour&lt;17):
-  print("Good Afternoon Sir!")
-elif(hour&gt;=17 and hour&lt;0):
-  print("Good Night Sir!")
-  
-]]></description><link>https://soymadip.me/notes/1.-python/1.-procedural/day-1-28/15-exercise-2-(good-morning-sir).html</link><guid isPermaLink="false">1. Python/1. Procedural/Day 1 - 28/15 - Exercise 2 (Good morning sir).md</guid><dc:creator><![CDATA[soymadip]]></dc:creator><pubDate>Mon, 21 Aug 2023 14:53:30 GMT</pubDate></item><item><title><![CDATA[Match Case Statements]]></title><description><![CDATA[ 
+<br><br>]]></description><link>https://soymadip.me/notes/1.-python/1.-procedural/day-1-28/15-exercise-2-(good-morning-sir).html</link><guid isPermaLink="false">1. Python/1. Procedural/Day 1 - 28/15 - Exercise 2 (Good morning sir).md</guid><dc:creator><![CDATA[soymadip]]></dc:creator><pubDate>Mon, 21 Aug 2023 14:53:30 GMT</pubDate></item><item><title><![CDATA[Match Case Statements]]></title><description><![CDATA[ 
  <br><br>To implement switch-case like characteristics very similar to if-else functionality, we use a match case in python. If you are coming from a C, C++ or Java like language, you must have heard of switch-case statements. If this is your first language, dont worry as I will tell you everything you need to know about match case statements in this video!<br>A match statement will compare a given variable’s value to different shapes, also referred to as the pattern. The main idea is to keep on comparing the variable with all the present patterns until it fits into one.<br>The match case consists of three main entities :<br>
 <br>The match keyword
 <br>One or more case clauses
@@ -1070,131 +1045,7 @@ Create a program capable of displaying questions to the user like KBC.
 Use List data type to store the questions and their correct answers.<br>
 Display the final amount the person is taking home after playing the game.
 
-<br><br><br><br><br>questions = [
-  [
-    "Which language was used to create fb?", "Python", "French", "JavaScript",
-    "Php", "None", 4
-  ],
-  [
-    "Which language was used to create fb?", "Python", "French", "JavaScript",
-    "Php", "None", 4
-  ],
-  [
-    "Which language was used to create fb?", "Python", "French", "JavaScript",
-    "Php", "None", 4
-  ],
-  [
-    "Which language was used to create fb?", "Python", "French", "JavaScript",
-    "Php", "None", 4
-  ],
-  [
-    "Which language was used to create fb?", "Python", "French", "JavaScript",
-    "Php", "None", 4
-  ],
-  [
-    "Which language was used to create fb?", "Python", "French", "JavaScript",
-    "Php", "None", 4
-  ],
-  [
-    "Which language was used to create fb?", "Python", "French", "JavaScript",
-    "Php", "None", 4
-  ],
-  [
-    "Which language was used to create fb?", "Python", "French", "JavaScript",
-    "Php", "None", 4
-  ],
-  [
-    "Which language was used to create fb?", "Python", "French", "JavaScript",
-    "Php", "None", 4
-  ],
-  [
-    "Which language was used to create fb?", "Python", "French", "JavaScript",
-    "Php", "None", 4
-  ],
-  [
-    "Which language was used to create fb?", "Python", "French", "JavaScript",
-    "Php", "None", 4
-  ],
-  [
-    "Which language was used to create fb?", "Python", "French", "JavaScript",
-    "Php", "None", 4
-  ],
-  [
-    "Which language was used to create fb?", "Python", "French", "JavaScript",
-    "Php", "None", 4
-  ],
-  [
-    "Which language was used to create fb?", "Python", "French", "JavaScript",
-    "Php", "None", 4
-  ],
-  [
-    "Which language was used to create fb?", "Python", "French", "JavaScript",
-    "Php", "None", 4
-  ],
-  [
-    "Which language was used to create fb?", "Python", "French", "JavaScript",
-    "Php", "None", 4
-  ],
-  [
-    "Which language was used to create fb?", "Python", "French", "JavaScript",
-    "Php", "None", 4
-  ],
-  [
-    "Which language was used to create fb?", "Python", "French", "JavaScript",
-    "Php", "None", 4
-  ],
-  [
-    "Which language was used to create fb?", "Python", "French", "JavaScript",
-    "Php", "None", 4
-  ],
-  [
-    "Which language was used to create fb?", "Python", "French", "JavaScript",
-    "Php", "None", 4
-  ],
-  [
-    "Which language was used to create fb?", "Python", "French", "JavaScript",
-    "Php", "None", 4
-  ],
-  [
-    "Which language was used to create fb?", "Python", "French", "JavaScript",
-    "Php", "None", 4
-  ],
-  [
-    "Which language was used to create fb?", "Python", "French", "JavaScript",
-    "Php", "None", 4
-  ],
-  [
-    "Which language was used to create fb?", "Python", "French", "JavaScript",
-    "Php", "None", 4
-  ],
-]
-
-levels = [1000, 2000, 3000, 5000, 10000, 20000, 40000, 80000, 160000, 320000]
-money = 0
-for i in range(0, len(questions)):
-  
-  question = questions[i]
-  print(f"\n\nQuestion for Rs. {levels[i]}")
-  print(f"a. {question[1]}          b. {question[2]} ")
-  print(f"c. {question[3]}          d. {question[4]} ")
-  reply = int(input("Enter your answer (1-4) or  0 to quit:\n" ))
-  if (reply == 0):
-    money = levels[i-1]
-    break
-  if(reply == question[-1]):
-    print(f"Correct answer, you have won Rs. {levels[i]}")
-    if(i == 4):
-      money = 10000
-    elif(i == 9):
-      money = 320000
-    elif(i == 14):
-      money = 10000000
-  else:
-    print("Wrong answer!")
-    break 
-
-print(f"Your take home money is {money}")
-<br><br>]]></description><link>https://soymadip.me/notes/1.-python/1.-procedural/day-1-28/27-exercise-3-(kbc).html</link><guid isPermaLink="false">1. Python/1. Procedural/Day 1 - 28/27 - Exercise 3 (kbc).md</guid><dc:creator><![CDATA[soymadip]]></dc:creator><pubDate>Tue, 15 Aug 2023 09:24:44 GMT</pubDate></item><item><title><![CDATA[28 - String formatting]]></title><description><![CDATA[ 
+<br><br><br><br>]]></description><link>https://soymadip.me/notes/1.-python/1.-procedural/day-1-28/27-exercise-3-(kbc).html</link><guid isPermaLink="false">1. Python/1. Procedural/Day 1 - 28/27 - Exercise 3 (kbc).md</guid><dc:creator><![CDATA[soymadip]]></dc:creator><pubDate>Tue, 15 Aug 2023 09:24:44 GMT</pubDate></item><item><title><![CDATA[28 - String formatting]]></title><description><![CDATA[ 
  <br><br>
 Primarily String formatting can be done in python  using the format method.
 <br>txt = "For only {price:.2f} dollars!"
@@ -1454,11 +1305,11 @@ print(cities.difference(cities2))
 cities2 = {"Tokyo", "Seoul", "Kabul", "Madrid"}
 print(cities.isdisjoint(cities2))
 <br><br>False
-<br><br><br>The issuperset() method checks if 1st set is SuperSet<a data-footref="1" href="https://soymadip.me/notes/about:blank#fn-1-0e65f28959763ed8" class="footnote-link" target="_self" rel="noopener nofollow">[1]</a> of 2nd set.<br><br>cities = {"Tokyo", "Madrid", "Berlin", "Delhi"}
+<br><br><br>The issuperset() method checks if 1st set is SuperSet<a data-footref="1" href="https://soymadip.me/notes/about:blank#fn-1-faa08197830e8a49" class="footnote-link" target="_self" rel="noopener nofollow">[1]</a> of 2nd set.<br><br>cities = {"Tokyo", "Madrid", "Berlin", "Delhi"}
 cities2 = {"Seoul", "Kabul"}
 print(cities.issuperset(cities2))
 <br><br>False<br><br><br>
-<br>The issubset() method checks if 2nd set is subset<a data-footref="2" href="https://soymadip.me/notes/about:blank#fn-2-0e65f28959763ed8" class="footnote-link" target="_self" rel="noopener nofollow">[2]</a> of  the particular set.
+<br>The issubset() method checks if 2nd set is subset<a data-footref="2" href="https://soymadip.me/notes/about:blank#fn-2-faa08197830e8a49" class="footnote-link" target="_self" rel="noopener nofollow">[2]</a> of  the particular set.
 <br>It returns True if all the items are present, else it returns False.
 <br><br>cities = {"Tokyo", "Madrid", "Berlin", "Delhi"}
 cities2 = {"Delhi", "Madrid"}
@@ -1505,8 +1356,8 @@ else:
     print("Carla is absent.")
 <br><br>Carla is present.<br><br><br><br><br>Not Important<br><br><br><br><br>
 <br>
-<br>Learn about superSet <a data-tooltip-position="top" aria-label="https://en.m.wikipedia.org/wiki/Subset#:~:text=In%20mathematics%2C%20set%20A%20is,a%20proper%20subset%20of%20B" rel="noopener nofollow" class="external-link" href="https://en.m.wikipedia.org/wiki/Subset#:~:text=In%20mathematics%2C%20set%20A%20is,a%20proper%20subset%20of%20B" target="_blank">HERE</a> <a href="https://soymadip.me/notes/about:blank#fnref-1-0e65f28959763ed8" class="footnote-backref footnote-link" target="_self" rel="noopener nofollow">↩︎</a>
-<br>Learn about subSet <a data-tooltip-position="top" aria-label="https://en.m.wikipedia.org/wiki/Subset#:~:text=In%20mathematics%2C%20set%20A%20is,a%20proper%20subset%20of%20B" rel="noopener nofollow" class="external-link" href="https://en.m.wikipedia.org/wiki/Subset#:~:text=In%20mathematics%2C%20set%20A%20is,a%20proper%20subset%20of%20B" target="_blank">HERE</a><a href="https://soymadip.me/notes/about:blank#fnref-2-0e65f28959763ed8" class="footnote-backref footnote-link" target="_self" rel="noopener nofollow">↩︎</a>
+<br>Learn about superSet <a data-tooltip-position="top" aria-label="https://en.m.wikipedia.org/wiki/Subset#:~:text=In%20mathematics%2C%20set%20A%20is,a%20proper%20subset%20of%20B" rel="noopener nofollow" class="external-link" href="https://en.m.wikipedia.org/wiki/Subset#:~:text=In%20mathematics%2C%20set%20A%20is,a%20proper%20subset%20of%20B" target="_blank">HERE</a> <a href="https://soymadip.me/notes/about:blank#fnref-1-faa08197830e8a49" class="footnote-backref footnote-link" target="_self" rel="noopener nofollow">↩︎</a>
+<br>Learn about subSet <a data-tooltip-position="top" aria-label="https://en.m.wikipedia.org/wiki/Subset#:~:text=In%20mathematics%2C%20set%20A%20is,a%20proper%20subset%20of%20B" rel="noopener nofollow" class="external-link" href="https://en.m.wikipedia.org/wiki/Subset#:~:text=In%20mathematics%2C%20set%20A%20is,a%20proper%20subset%20of%20B" target="_blank">HERE</a><a href="https://soymadip.me/notes/about:blank#fnref-2-faa08197830e8a49" class="footnote-backref footnote-link" target="_self" rel="noopener nofollow">↩︎</a>
 ]]></description><link>https://soymadip.me/notes/1.-python/1.-procedural/day-29-55/31-python-sets.html</link><guid isPermaLink="false">1. Python/1. Procedural/Day 29 - 55/31 - Python Sets.md</guid><dc:creator><![CDATA[soymadip]]></dc:creator><pubDate>Mon, 28 Aug 2023 16:59:44 GMT</pubDate><enclosure url="https://soymadip.me/notes/lib/media/union.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src="https://soymadip.me/notes/lib/media/union.jpg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[32 - Set Methods (merged)]]></title><description><![CDATA[ 
  <br>Why?
 As I told in my folder description, I slightly or many times heavily edit these notes.
@@ -2661,40 +2512,7 @@ For mutable objects such as lists &amp; dictionaries, is and == can behave diffe
 <br>Snake, Water and Gun is a variation of the children's game "rock-paper-scissors" where players use hand gestures to represent a snake, water, or a gun. 
 <br>The gun beats the snake, the water beats the gun, and the snake beats the water. 
 <br>Write a python program to create a Snake Water Gun game in Python using if-else statements. Do not create any fancy GUI. Use proper functions to check for win.
-<br><br> 63 - Ex5 ~ Solution<br><br>import random
-
-def check(comp, user):
-  if comp ==user:
-    return 0
-    
-  if(comp == 0 and user ==1):
-    return -1
-    
-  if(comp == 1 and user ==2):
-    return -1
-    
-  if(comp == 2 and user == 0):
-    return -1
-
-  return 1
-    
-  
-comp = random.randint(0, 2)
-user = int(input("0 for Snake, 1 for water and 2 for Gun:\n"))
-
-score = check(comp, user)
-
-print("You: ", user)
-print("Computer: ", comp)
-
-if(score == 0):
-  print("Its a draw")
-elif (score == -1):
-  print("You Lose")
-else:
-  print("You Won")
-
-<br><br>]]></description><link>https://soymadip.me/notes/1.-python/1.-procedural/day-29-55/55-exercise-5-(snake-water-gun).html</link><guid isPermaLink="false">1. Python/1. Procedural/Day 29 - 55/55 -Exercise 5 (Snake Water Gun).md</guid><dc:creator><![CDATA[soymadip]]></dc:creator><pubDate>Wed, 16 Aug 2023 20:04:48 GMT</pubDate></item><item><title><![CDATA[Introduction to Object-oriented programming]]></title><description><![CDATA[ 
+<br><br> 63 - Ex5 ~ Solution<br><br><br>]]></description><link>https://soymadip.me/notes/1.-python/1.-procedural/day-29-55/55-exercise-5-(snake-water-gun).html</link><guid isPermaLink="false">1. Python/1. Procedural/Day 29 - 55/55 -Exercise 5 (Snake Water Gun).md</guid><dc:creator><![CDATA[soymadip]]></dc:creator><pubDate>Wed, 16 Aug 2023 20:04:48 GMT</pubDate></item><item><title><![CDATA[Introduction to Object-oriented programming]]></title><description><![CDATA[ 
  <br><br>Info
 “PP &amp; OOP.jpeg” could not be found.<br>
 In programming languages, mainly there are two approaches that are used to write program or code.
@@ -3210,29 +3028,7 @@ else:
 ]]></description><link>https://soymadip.me/notes/1.-python/2.-object-oriented/day-56-77/63-ex5-~-solution.html</link><guid isPermaLink="false">1. Python/2. Object-Oriented/Day 56 - 77/63 - Ex5 ~ Solution.md</guid><dc:creator><![CDATA[soymadip]]></dc:creator><pubDate>Wed, 23 Aug 2023 13:11:17 GMT</pubDate></item><item><title><![CDATA[Solution:]]></title><description><![CDATA[ 
  <br>Question
 Write a Library class with no_of_books and books as two instance variables. Write a program to create a library from this Library class and show how you can print all books, add a book and get the number of books using different methods. Show that your program
-<br><br>67 - Ex6 ~ solution<br><br>
-class Library:
-  def __init__(self):
-    self.noBooks = 0
-    self.books = []
-    
-  def addBook(self, book):
-    self.books.append(book)
-    self.noBooks = len(self.books)
-
-  def showInfo(self):
-    print(f"The library has {self.noBooks} books. The books are")
-    for book in self.books:
-      print(book)
-
-
-l1 = Library()
-l1.addBook("Harry Potter1")
-l1.addBook("Harry Potter2")
-l1.addBook("Harry Potter3")
-l1.showInfo()
-
-<br><br>]]></description><link>https://soymadip.me/notes/1.-python/2.-object-oriented/day-56-77/64-exercise-6.html</link><guid isPermaLink="false">1. Python/2. Object-Oriented/Day 56 - 77/64 - Exercise 6.md</guid><dc:creator><![CDATA[soymadip]]></dc:creator><pubDate>Wed, 16 Aug 2023 20:08:14 GMT</pubDate></item><item><title><![CDATA[65 - Static Methods]]></title><description><![CDATA[ 
+<br><br>67 - Ex6 ~ solution<br><br><br>]]></description><link>https://soymadip.me/notes/1.-python/2.-object-oriented/day-56-77/64-exercise-6.html</link><guid isPermaLink="false">1. Python/2. Object-Oriented/Day 56 - 77/64 - Exercise 6.md</guid><dc:creator><![CDATA[soymadip]]></dc:creator><pubDate>Wed, 16 Aug 2023 20:08:14 GMT</pubDate></item><item><title><![CDATA[65 - Static Methods]]></title><description><![CDATA[ 
  <br>Static methods in Python are methods that belong to a class rather than an <a data-tooltip-position="top" aria-label="https://chat.openai.com/share/e985b140-1ce5-4cb5-83b9-c0c538b289b5" rel="noopener nofollow" class="external-link" href="https://chat.openai.com/share/e985b140-1ce5-4cb5-83b9-c0c538b289b5" target="_blank">instance/object</a> of the class.<br>
 They are defined using the @staticmethod decorator and do not have access to the instance of the class (i.e. self).<br>
 They are called on the class itself, not on an instance of the class. <br>Static methods are often used to create utility functions that don't need access to instance data but we wanna share it with the class.<br>class Math:
@@ -3314,17 +3110,7 @@ You should use os module to rename all the png images from 1.png all the way til
 <br>this.png --&gt; 3.png
 <br>design.png --&gt; 4.png
 <br>name.png --&gt; 5.png
-<br><br>75 - Ex7 ~ Solution<br><br>Answer<br>import os
-
-files = os.listdir("clutteredFolder")
-i = 1
-for file in files:
-  if file.endswith(".png"):
-    print(file)
-    os.rename(f"clutteredFolder/{file}", f"clutteredFolder/{i}.png")
-    i = i + 1
-    
-<br><br>]]></description><link>https://soymadip.me/notes/1.-python/2.-object-oriented/day-56-77/68-exercise-7.html</link><guid isPermaLink="false">1. Python/2. Object-Oriented/Day 56 - 77/68 - Exercise 7.md</guid><dc:creator><![CDATA[soymadip]]></dc:creator><pubDate>Sat, 26 Aug 2023 06:15:40 GMT</pubDate></item><item><title><![CDATA[69 - Class methods]]></title><description><![CDATA[ 
+<br><br>75 - Ex7 ~ Solution<br><br><br>]]></description><link>https://soymadip.me/notes/1.-python/2.-object-oriented/day-56-77/68-exercise-7.html</link><guid isPermaLink="false">1. Python/2. Object-Oriented/Day 56 - 77/68 - Exercise 7.md</guid><dc:creator><![CDATA[soymadip]]></dc:creator><pubDate>Sat, 26 Aug 2023 06:15:40 GMT</pubDate></item><item><title><![CDATA[69 - Class methods]]></title><description><![CDATA[ 
  <br><br>
 <br>In Python, classes are a way to define custom data types that can store data and define functions that can manipulate that data. 
 <br>One type of function that can be defined within a class is called a "method". 
@@ -3552,19 +3338,7 @@ Write a program to manipulate pdf files using pyPDF.
 
 <br>Info
 pypdf is a free and open-source pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files. It can also add custom data, viewing options, and passwords to PDF files. pypdf can retrieve text and metadata from PDFs as well.
-<br><br><br><br><br>from PyPDF2 import PdfWriter
-import os
-
-merger = PdfWriter()
-files = [file for file in os.listdir() if file.endswith(".pdf")]
-
-for pdf in files:
-    merger.append(pdf)
-
-merger.write("merged-pdf.pdf")
-merger.close()
-
-]]></description><link>https://soymadip.me/notes/1.-python/2.-object-oriented/day-56-77/76-exercise-8.html</link><guid isPermaLink="false">1. Python/2. Object-Oriented/Day 56 - 77/76 - Exercise 8.md</guid><dc:creator><![CDATA[soymadip]]></dc:creator><pubDate>Thu, 17 Aug 2023 03:53:46 GMT</pubDate></item><item><title><![CDATA[Operator Overloading in Python: An Introduction]]></title><description><![CDATA[ 
+<br><br><br>]]></description><link>https://soymadip.me/notes/1.-python/2.-object-oriented/day-56-77/76-exercise-8.html</link><guid isPermaLink="false">1. Python/2. Object-Oriented/Day 56 - 77/76 - Exercise 8.md</guid><dc:creator><![CDATA[soymadip]]></dc:creator><pubDate>Thu, 17 Aug 2023 03:53:46 GMT</pubDate></item><item><title><![CDATA[Operator Overloading in Python: An Introduction]]></title><description><![CDATA[ 
  <br><br>Operator Overloading is a feature in Python that allows developers to redefine the behavior of mathematical and comparison operators for custom data types. This means that you can use the standard mathematical operators (+, -, *, /, etc.) and comparison operators (&gt;, &lt;, ==, etc.) in your own classes, just as you would for built-in data types like int, float, and str.<br><br>Operator overloading allows you to create more readable and intuitive code. For instance, consider a custom class that represents a point in 2D space. You could define a method called 'add' to add two points together, but using the + operator makes the code more concise and readable:<br>p1 = Point(1, 2)
 p2 = Point(3, 4)
 p3 = p1 + p2
@@ -3777,14 +3551,7 @@ Shoutout to Nishant
 Shoutout to Harry
 <br>Note
 If you are not using windows, try to figure out how to do the same thing using some other package
-<br><br><br><br><br>from os import system
-names = ["StupidProgramm1","AayushGarg15", "Yuniek", "NiteshUpadhyay2", "RAMESHKUMAR69", "AshishKushwaha4", "AshokBhatt", "MILLANDREME", "ValorantAccoun4", "Sanjeevthakur8", "vivekRaogaddema", "NilutpalBaruah", "Priyanshu48", "KenZi2", "RahulGoyal14", "KartikeySurbhi", "AnirbanPati", "RohanPudasaini", "TechBlogs", "joelthomas1103", "dhairyapawaia", "PrithviSingh15", "GoogolChad", "Moinhusen", "mahi98989897", "Blitzfan1", "umang001", "AvijitManna1", "Mr-NeonNeon", "MaryamTatheer", "NishantJaiswal2", "AnonymousBuddy1", "MaryamTatheer", "GyanKumar1", "StarVipin", "vivekRaogaddema", "RaviSharma34", "AhsanTariq3", "gagankj", "ProgrammerShray", "AvijitDey5", "Anshuman097", "AnchalGupta9", "StupidProgramm1", "HimanshuKumar96", "hnxpriyanshu", "MaxM50", "piyushgoyall", "DEMANDHERE", "KrishnaAnand2", "SurajVishwaka10", "NominathKuwar", "firozeeIII", "jawad9899", "ArunavaAdhikari", "Quazi-Misbah-Raza", "HistoricMind", "Rajbir98", "AkshayNivate", "vivekRaogaddema", "maanitgill", "krushnsinh", "universelhome", "OPGAMEROPGAMERm", "universelhome", "learningtocodewithabdullah", "Abdullah426351", "SagarPathak3", "SAMARTH-VERMA", "PrithvirajPati3", "SAURABHTRIPATH6", "SumanRajak", "Swayam2004", "Joydip2002", "PulkitPareek", "RatnakarGautam221b", "tassawerzaidi", "GRyHacker", "uatta8088", "Athcode", "PrasoonShrivast", "piyushgoyall", "Saptak291", "PratyakshDhankh", "ZayanAhmad2", "Ali-RazaRaza9", "TridevJha", "KrrishHalder", "HeroProgrammin1", "Sanjeev-Kumar78", "AryanKushwaha2", "GalluBhai", "AB265", "AayushGarg15", "StupidProgramm1", "dheerajkumar68", "ArpitJaiswal2", "Fighters006", "AviPandit", "mrz004", "AviPandit", "MihirSingh4", "Nks-hkhk", "msCoder5", "SURAJGUSAIN1", "DivyanandPandey", "AhmadShuja", "JaydeepSindhav", "Champ7239", "piyushgoyall", "Joydip2002", "MukulVerma8745", "V-Durgeshwar-Ra", "SaacheKapoor", "41-GauravGaurav", "VeersinghZanka1", "LegendVibhu", "YashAgr", "vivekRaogaddema", "Priyanshu-kundu", "iamarghamallick", "samad90", "iamarghamallick", "MukulVerma8745", "MaxM50", "ItZgooseBoy", "piyushgoyall", "pavanteja14", "sologamerq1", "YugamTiwana", "piyushgoyall", "ShubhamSaini12", "AvishJain24", "ItZgooseBoy", "Iswastikmishra", "srisridmulti", "AvishJain24", "MFaizan3", "anukoolchauhan", "codeWithPrawar", "ArshitRupani", "Muhammad-Anas11"]
-
-
-for name in names:
-  system(f'say Shoutout to {name}')
-
-<br><br>]]></description><link>https://soymadip.me/notes/1.-python/2.-object-oriented/day-78-100/83-exercise-9.html</link><guid isPermaLink="false">1. Python/2. Object-Oriented/Day 78 - 100/83 - Exercise 9.md</guid><dc:creator><![CDATA[soymadip]]></dc:creator><pubDate>Thu, 17 Aug 2023 04:11:35 GMT</pubDate></item><item><title><![CDATA[The time Module in Python]]></title><description><![CDATA[ 
+<br><br><br><br><br>]]></description><link>https://soymadip.me/notes/1.-python/2.-object-oriented/day-78-100/83-exercise-9.html</link><guid isPermaLink="false">1. Python/2. Object-Oriented/Day 78 - 100/83 - Exercise 9.md</guid><dc:creator><![CDATA[soymadip]]></dc:creator><pubDate>Thu, 17 Aug 2023 04:11:35 GMT</pubDate></item><item><title><![CDATA[The time Module in Python]]></title><description><![CDATA[ 
  <br><br>The time module in Python provides a set of functions to work with time-related operations, such as timekeeping, formatting, and time conversions. This module is part of the Python Standard Library and is available in all Python installations, making it a convenient and essential tool for a wide range of applications. In this day 84 tutorial, we'll explore the time module in Python and see how it can be used in different scenarios.<br><br>The time.time() function returns the current time as a floating-point number, representing the number of seconds since the epoch (the point in time when the time module was initialized). The returned value is based on the computer's system clock and is affected by time adjustments made by the operating system, such as daylight saving time. Here's an example:<br>import time
 print(time.time())
 # Output: 1602299933.233374
@@ -3955,21 +3722,7 @@ Use the NewsAPI and the requests module to fetch the daily news related to diffe
 Go to: <a rel="noopener nofollow" class="external-link" href="https://newsapi.org/" target="_blank">https://newsapi.org/</a><br>
 and explore the various options to build you application
 
-<br><br><br><br>
-import requests
-import json
-
-query = input("What type of news are you interested in? ")
-url = f"https://newsapi.org/v2/everything?q={query}&amp;from=2023-01-28&amp;sortBy=publishedAt&amp;apiKey=dbe57b028aeb41e285a226a94865f7a7"
-r = requests.get(url)
-news = json.loads(r.text)
-# print(news, type(news))
-for article in news["articles"]:
-  print(article["title"])
-  print(article["description"])
-  print("--------------------------------------")
-  
-<br><br>]]></description><link>https://soymadip.me/notes/1.-python/2.-object-oriented/day-78-100/90-exercise-10.html</link><guid isPermaLink="false">1. Python/2. Object-Oriented/Day 78 - 100/90 - Exercise 10.md</guid><dc:creator><![CDATA[soymadip]]></dc:creator><pubDate>Thu, 17 Aug 2023 04:24:28 GMT</pubDate></item><item><title><![CDATA[Generators in Python]]></title><description><![CDATA[ 
+<br><br><br><br>]]></description><link>https://soymadip.me/notes/1.-python/2.-object-oriented/day-78-100/90-exercise-10.html</link><guid isPermaLink="false">1. Python/2. Object-Oriented/Day 78 - 100/90 - Exercise 10.md</guid><dc:creator><![CDATA[soymadip]]></dc:creator><pubDate>Thu, 17 Aug 2023 04:24:28 GMT</pubDate></item><item><title><![CDATA[Generators in Python]]></title><description><![CDATA[ 
  <br><br>Generators in Python are special type of functions that allow you to create an iterable sequence of values. A generator function returns a generator object, which can be used to generate the values one-by-one as you iterate over it. Generators are a powerful tool for working with large or complex data sets, as they allow you to generate the values on-the-fly, rather than having to create and store the entire sequence in memory.<br><br>In Python, you can create a generator by using the yield statement in a function. The yield statement returns a value from the generator and suspends the execution of the function until the next value is requested. Here's an example:<br>def my_generator():
     for i in range(5):
         yield i
