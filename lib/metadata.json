@@ -1,6 +1,6 @@
 {
   "vaultName": "Notes",
-  "lastExport": 1735410812583,
+  "lastExport": 1735411785724,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon ctp-macchiato ctp-accent-maroon ctp-bold-folder-title",
   "useCustomHeadContent": false,
@@ -223,14 +223,19 @@
     "4. CSS/index.canvas",
     "5. JavaScript/index.md",
     "5. JavaScript/JSON & JSONC.md",
+    "6. C++/_Google C++ Guidelines (me).md",
     "6. C++/_Modern C++ Coding Guidelines.md",
-    "6. C++/0.Google C++ Guidelines (me).md",
     "6. C++/Constants.md",
     "6. C++/Enumerated Constants.md",
     "6. C++/Formatting Output.md",
     "6. C++/index.md",
     "Hyprland/Docs.md",
     "index.canvas",
+    "lib/media/esacpe-sequence-charactars.png",
+    "lib/media/union.jpg",
+    "lib/media/intersection.png",
+    "lib/media/oop.png",
+    "lib/media/sdd.png",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -260,63 +265,7 @@
     "lib/styles/theme.css",
     "lib/styles/global-variable-styles.css",
     "lib/styles/supported-plugins.css",
-    "lib/styles/main-styles.css",
-    "lib/media/esacpe-sequence-charactars.png",
-    "lib/media/union.jpg",
-    "lib/media/intersection.png",
-    "lib/media/oop.png",
-    "lib/media/sdd.png",
-    "3.-html/assets/webpage-structure.png",
-    "3.-html/assets/how-page-works.png",
-    "3.-html/assets/elements_inline.png",
-    "3.-html/assets/favicon.png",
-    "3.-html/assets/pictorial-representation-of-tags.png",
-    "3.-html/assets/heading.png",
-    "3.-html/assets/paragraph.png",
-    "3.-html/assets/list_unordered.png",
-    "3.-html/assets/list_ordered.png",
-    "3.-html/assets/list_description.png",
-    "3.-html/assets/required-attribute.png",
-    "3.-html/assets/table.png",
-    "3.-html/assets/semantic-tags.png",
-    "4.-css/assets/basic_syntax.png",
-    "4.-css/assets/inline-css.png",
-    "4.-css/assets/css_internal.png",
-    "4.-css/assets/css_external.png",
-    "4.-css/assets/selector-universal.png",
-    "4.-css/assets/selector-element.png",
-    "4.-css/assets/selector-id.png",
-    "4.-css/assets/selector-class.png",
-    "4.-css/assets/color_name.png",
-    "4.-css/assets/hex.png",
-    "4.-css/assets/rgb.png",
-    "4.-css/assets/rgba.png",
-    "4.-css/assets/hsl.png",
-    "4.-css/assets/hsla.png",
-    "4.-css/assets/font-family.png",
-    "4.-css/assets/font-style.png",
-    "4.-css/assets/font-size.png",
-    "4.-css/assets/font-varient.png",
-    "4.-css/assets/font-weight.png",
-    "4.-css/assets/background_shorthand.png",
-    "4.-css/assets/background_color.png",
-    "4.-css/assets/background_image.png",
-    "4.-css/assets/background_repeat_repeat.png",
-    "4.-css/assets/background_repeat_no_repeat.png",
-    "4.-css/assets/background_repeat_x.png",
-    "4.-css/assets/background_repeat_y.png",
-    "4.-css/assets/background_size_cover.png",
-    "4.-css/assets/background_size_contain.png",
-    "4.-css/assets/background_size_custom.png",
-    "4.-css/assets/background_position.png",
-    "4.-css/assets/border-style.png",
-    "4.-css/assets/border-color.png",
-    "4.-css/assets/border-width.png",
-    "4.-css/assets/border-radius.png",
-    "4.-css/assets/border-collapse.png",
-    "4.-css/assets/border-seperate.png",
-    "4.-css/assets/border-spacing.png",
-    "4.-css/assets/shorthand_border.png"
+    "lib/styles/main-styles.css"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -352,91 +301,91 @@
   ],
   "fileInfo": {
     "0.RoadMap/index.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 0,
       "exportedPath": "0.roadmap/index.html",
       "dependencies": []
     },
     "0.RoadMap/Road-Map.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 1,
       "exportedPath": "0.roadmap/road-map.html",
       "dependencies": []
     },
     "1. Python/• Assets/Esacpe Sequence Charactars.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 23631,
       "exportedPath": "1.-python/•-assets/esacpe-sequence-charactars.png",
       "dependencies": []
     },
     "1. Python/• Assets/Intersection.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 4641,
       "exportedPath": "1.-python/•-assets/intersection.png",
       "dependencies": []
     },
     "1. Python/• Assets/OOP.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 32615,
       "exportedPath": "1.-python/•-assets/oop.png",
       "dependencies": []
     },
     "1. Python/• Assets/Pasted image 20230918235308.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 32615,
       "exportedPath": "1.-python/•-assets/pasted-image-20230918235308.png",
       "dependencies": []
     },
     "1. Python/• Assets/Union.jpg": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 299469,
       "exportedPath": "1.-python/•-assets/union.jpg",
       "dependencies": []
     },
     "1. Python/• MY Doubts/Md.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 243,
       "exportedPath": "1.-python/•-my-doubts/md.html",
       "dependencies": []
     },
     "1. Python/• MY Doubts/My Doubts.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 836,
       "exportedPath": "1.-python/•-my-doubts/my-doubts.html",
       "dependencies": []
     },
     "1. Python/• MY Doubts/VS Code extensions.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 259,
       "exportedPath": "1.-python/•-my-doubts/vs-code-extensions.html",
       "dependencies": []
     },
     "1. Python/• MY Doubts/Vs code shortcuts.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 164,
       "exportedPath": "1.-python/•-my-doubts/vs-code-shortcuts.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 1 - 28/0 - Symbols.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 235,
       "exportedPath": "1.-python/1.-procedural/day-1-28/0-symbols.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 1 - 28/0 - What is Programming and Python.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 1969,
       "exportedPath": "1.-python/1.-procedural/day-1-28/0-what-is-programming-and-python.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 1 - 28/0.e - Description of modules & Pip.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 1324,
       "exportedPath": "1.-python/1.-procedural/day-1-28/0.e-description-of-modules-&-pip.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 1 - 28/1 - Escape Sequence Characters.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 442,
       "exportedPath": "1.-python/1.-procedural/day-1-28/1-escape-sequence-characters.html",
       "dependencies": [
@@ -444,175 +393,175 @@
       ]
     },
     "1. Python/1. Procedural/Day 1 - 28/2 - Operators.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 1693,
       "exportedPath": "1.-python/1.-procedural/day-1-28/2-operators.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 1 - 28/3- Variables and Data Types.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 2975,
       "exportedPath": "1.-python/1.-procedural/day-1-28/3-variables-and-data-types.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 1 - 28/4 - Type Casting.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 1213,
       "exportedPath": "1.-python/1.-procedural/day-1-28/4-type-casting.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 1 - 28/7 - Exercise 1 (calculator).md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 403,
       "exportedPath": "1.-python/1.-procedural/day-1-28/7-exercise-1-(calculator).html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 1 - 28/8 - Ex1 ~Solution.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 219,
       "exportedPath": "1.-python/1.-procedural/day-1-28/8-ex1-~solution.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 1 - 28/9 - Typecasting in Python.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 2020,
       "exportedPath": "1.-python/1.-procedural/day-1-28/9-typecasting-in-python.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 1 - 28/10- Taking User Input.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 723,
       "exportedPath": "1.-python/1.-procedural/day-1-28/10-taking-user-input.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 1 - 28/12 - String Slicing.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 1418,
       "exportedPath": "1.-python/1.-procedural/day-1-28/12-string-slicing.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 1 - 28/12.e - Loops in string.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 391,
       "exportedPath": "1.-python/1.-procedural/day-1-28/12.e-loops-in-string.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 1 - 28/13 - String methods.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 6861,
       "exportedPath": "1.-python/1.-procedural/day-1-28/13-string-methods.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 1 - 28/14 - if-else Statements.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 2981,
       "exportedPath": "1.-python/1.-procedural/day-1-28/14-if-else-statements.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 1 - 28/15 - Exercise 2 (Good morning sir).md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 549,
       "exportedPath": "1.-python/1.-procedural/day-1-28/15-exercise-2-(good-morning-sir).html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 1 - 28/16 - Match Case.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 1661,
       "exportedPath": "1.-python/1.-procedural/day-1-28/16-match-case.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 1 - 28/17 - For Loops.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 1407,
       "exportedPath": "1.-python/1.-procedural/day-1-28/17-for-loops.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 1 - 28/18 - while Loops in Python..md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 2299,
       "exportedPath": "1.-python/1.-procedural/day-1-28/18-while-loops-in-python..html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 1 - 28/19 - break and continue.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 722,
       "exportedPath": "1.-python/1.-procedural/day-1-28/19-break-and-continue.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 1 - 28/20 - Functions.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 1475,
       "exportedPath": "1.-python/1.-procedural/day-1-28/20-functions.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 1 - 28/21 - Function Arguments.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 3279,
       "exportedPath": "1.-python/1.-procedural/day-1-28/21-function-arguments.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 1 - 28/22 - Introduction to Lists.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 6049,
       "exportedPath": "1.-python/1.-procedural/day-1-28/22-introduction-to-lists.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 1 - 28/23 - List Methods.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 4979,
       "exportedPath": "1.-python/1.-procedural/day-1-28/23-list-methods.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 1 - 28/24 - Tuples in Python.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 5078,
       "exportedPath": "1.-python/1.-procedural/day-1-28/24-tuples-in-python.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 1 - 28/25 - operations on Tuples.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 2016,
       "exportedPath": "1.-python/1.-procedural/day-1-28/25-operations-on-tuples.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 1 - 28/26 - E2~ Solution.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 685,
       "exportedPath": "1.-python/1.-procedural/day-1-28/26-e2~-solution.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 1 - 28/27 - Exercise 3 (kbc).md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 341,
       "exportedPath": "1.-python/1.-procedural/day-1-28/27-exercise-3-(kbc).html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 1 - 28/28 - String formatting.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 1554,
       "exportedPath": "1.-python/1.-procedural/day-1-28/28-string-formatting.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 1 - 28/Extra- Line Break and space..md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 312,
       "exportedPath": "1.-python/1.-procedural/day-1-28/extra-line-break-and-space..html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 29 - 55/29 - Docstrings in python.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 3639,
       "exportedPath": "1.-python/1.-procedural/day-29-55/29-docstrings-in-python.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 29 - 55/30 - Recursion in python.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 1036,
       "exportedPath": "1.-python/1.-procedural/day-29-55/30-recursion-in-python.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 29 - 55/31 - Python Sets.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 8637,
       "exportedPath": "1.-python/1.-procedural/day-29-55/31-python-sets.html",
       "dependencies": [
@@ -621,163 +570,163 @@
       ]
     },
     "1. Python/1. Procedural/Day 29 - 55/32 - Set Methods (merged).md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 320,
       "exportedPath": "1.-python/1.-procedural/day-29-55/32-set-methods-(merged).html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 29 - 55/33 - Dictionary in python.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 3886,
       "exportedPath": "1.-python/1.-procedural/day-29-55/33-dictionary-in-python.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 29 - 55/34 - Dictionary Methods (merged).md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 309,
       "exportedPath": "1.-python/1.-procedural/day-29-55/34-dictionary-methods-(merged).html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 29 - 55/35 - For loop with else.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 1330,
       "exportedPath": "1.-python/1.-procedural/day-29-55/35-for-loop-with-else.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 29 - 55/36 - Exception Handling.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 1326,
       "exportedPath": "1.-python/1.-procedural/day-29-55/36-exception-handling.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 29 - 55/37 - Finally Keyword.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 1758,
       "exportedPath": "1.-python/1.-procedural/day-29-55/37-finally-keyword.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 29 - 55/38 - Custom Errors.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 899,
       "exportedPath": "1.-python/1.-procedural/day-29-55/38-custom-errors.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 29 - 55/39 - Exercise 3~ Solution.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 3910,
       "exportedPath": "1.-python/1.-procedural/day-29-55/39-exercise-3~-solution.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 29 - 55/40 - Exercise 4 (program to translate a message into secret code language).md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 694,
       "exportedPath": "1.-python/1.-procedural/day-29-55/40-exercise-4-(program-to-translate-a-message-into-secret-code-language).html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 29 - 55/41 - Short Hand if else.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 1394,
       "exportedPath": "1.-python/1.-procedural/day-29-55/41-short-hand-if-else.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 29 - 55/42 - Enumerate.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 2186,
       "exportedPath": "1.-python/1.-procedural/day-29-55/42-enumerate.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 29 - 55/43 - Virtual Environment.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 2875,
       "exportedPath": "1.-python/1.-procedural/day-29-55/43-virtual-environment.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 29 - 55/44 - How import works.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 3739,
       "exportedPath": "1.-python/1.-procedural/day-29-55/44-how-import-works.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 29 - 55/45 - if name == main in Python.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 2681,
       "exportedPath": "1.-python/1.-procedural/day-29-55/45-if-name-==-main-in-python.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 29 - 55/46 - OS Modules.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 6591,
       "exportedPath": "1.-python/1.-procedural/day-29-55/46-os-modules.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 29 - 55/46e. colour in Terminal logs.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 2447,
       "exportedPath": "1.-python/1.-procedural/day-29-55/46e.-colour-in-terminal-logs.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 29 - 55/47 - Exercise 4~ Solution.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 944,
       "exportedPath": "1.-python/1.-procedural/day-29-55/47-exercise-4~-solution.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 29 - 55/48 - local vs global variables.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 2267,
       "exportedPath": "1.-python/1.-procedural/day-29-55/48-local-vs-global-variables.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 29 - 55/49 - readlines() method.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 3299,
       "exportedPath": "1.-python/1.-procedural/day-29-55/49-readlines()-method.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 29 - 55/50 - read readlines and other methods.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 1670,
       "exportedPath": "1.-python/1.-procedural/day-29-55/50-read-readlines-and-other-methods.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 29 - 55/51 - seek() and tell() functions.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 1835,
       "exportedPath": "1.-python/1.-procedural/day-29-55/51-seek()-and-tell()-functions.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 29 - 55/52 - Lambda Functions.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 1649,
       "exportedPath": "1.-python/1.-procedural/day-29-55/52-lambda-functions.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 29 - 55/52e. Pass functions as arguments.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 581,
       "exportedPath": "1.-python/1.-procedural/day-29-55/52e.-pass-functions-as-arguments.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 29 - 55/53 - Map, Filter & Reduce.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 3804,
       "exportedPath": "1.-python/1.-procedural/day-29-55/53-map,-filter-&-reduce.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 29 - 55/54 - is vs == in Python.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 1568,
       "exportedPath": "1.-python/1.-procedural/day-29-55/54-is-vs-==-in-python.html",
       "dependencies": []
     },
     "1. Python/1. Procedural/Day 29 - 55/55 -Exercise 5 (Snake Water Gun).md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 514,
       "exportedPath": "1.-python/1.-procedural/day-29-55/55-exercise-5-(snake-water-gun).html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 56 - 77/56 - Intro to oops.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 2465,
       "exportedPath": "1.-python/2.-object-oriented/day-56-77/56-intro-to-oops.html",
       "dependencies": [
@@ -785,133 +734,133 @@
       ]
     },
     "1. Python/2. Object-Oriented/Day 56 - 77/57 - Classes and Objects.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 1392,
       "exportedPath": "1.-python/2.-object-oriented/day-56-77/57-classes-and-objects.html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 56 - 77/58 - Constructors.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 1817,
       "exportedPath": "1.-python/2.-object-oriented/day-56-77/58-constructors.html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 56 - 77/58e.  '__init__()' - we don't need it.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 315,
       "exportedPath": "1.-python/2.-object-oriented/day-56-77/58e.-'__init__()'-we-don't-need-it.html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 56 - 77/59 - Python Decorators.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 2843,
       "exportedPath": "1.-python/2.-object-oriented/day-56-77/59-python-decorators.html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 56 - 77/60 - Getters and Setters.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 3135,
       "exportedPath": "1.-python/2.-object-oriented/day-56-77/60-getters-and-setters.html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 56 - 77/61 - Inheritance in Python.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 4549,
       "exportedPath": "1.-python/2.-object-oriented/day-56-77/61-inheritance-in-python.html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 56 - 77/62 - Access Specifiers or Modifiers.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 5954,
       "exportedPath": "1.-python/2.-object-oriented/day-56-77/62-access-specifiers-or-modifiers.html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 56 - 77/63 - Ex5 ~ Solution.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 522,
       "exportedPath": "1.-python/2.-object-oriented/day-56-77/63-ex5-~-solution.html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 56 - 77/64 - Exercise 6.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 363,
       "exportedPath": "1.-python/2.-object-oriented/day-56-77/64-exercise-6.html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 56 - 77/65 - Static Methods.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 1096,
       "exportedPath": "1.-python/2.-object-oriented/day-56-77/65-static-methods.html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 56 - 77/66 - Instance vs class variables.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 2889,
       "exportedPath": "1.-python/2.-object-oriented/day-56-77/66-instance-vs-class-variables.html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 56 - 77/67 - Ex6 ~ solution.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 440,
       "exportedPath": "1.-python/2.-object-oriented/day-56-77/67-ex6-~-solution.html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 56 - 77/68 - Exercise 7.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 445,
       "exportedPath": "1.-python/2.-object-oriented/day-56-77/68-exercise-7.html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 56 - 77/69 - Class methods.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 3713,
       "exportedPath": "1.-python/2.-object-oriented/day-56-77/69-class-methods.html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 56 - 77/70 - Class methods as alternative constructors.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 2802,
       "exportedPath": "1.-python/2.-object-oriented/day-56-77/70-class-methods-as-alternative-constructors.html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 56 - 77/71 - dir(), __dict__ & help()  methods.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 2399,
       "exportedPath": "1.-python/2.-object-oriented/day-56-77/71-dir(),-__dict__-&-help()-methods.html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 56 - 77/72 - super keyword.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 2359,
       "exportedPath": "1.-python/2.-object-oriented/day-56-77/72-super-keyword.html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 56 - 77/73 - Magic or Dunder Methods.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 2156,
       "exportedPath": "1.-python/2.-object-oriented/day-56-77/73-magic-or-dunder-methods.html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 56 - 77/74 - Method Overriding.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 3261,
       "exportedPath": "1.-python/2.-object-oriented/day-56-77/74-method-overriding.html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 56 - 77/75 - Ex7 ~ Solution.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 269,
       "exportedPath": "1.-python/2.-object-oriented/day-56-77/75-ex7-~-solution.html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 56 - 77/76 - Exercise 8.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 558,
       "exportedPath": "1.-python/2.-object-oriented/day-56-77/76-exercise-8.html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 56 - 77/77 - Operator Overloading.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 2204,
       "exportedPath": "1.-python/2.-object-oriented/day-56-77/77-operator-overloading.html",
       "dependencies": [
@@ -919,289 +868,289 @@
       ]
     },
     "1. Python/2. Object-Oriented/Day 78 - 100/78 - Single Inheritance.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 1943,
       "exportedPath": "1.-python/2.-object-oriented/day-78-100/78-single-inheritance.html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 78 - 100/79 - Multiple Inheritance.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 1767,
       "exportedPath": "1.-python/2.-object-oriented/day-78-100/79-multiple-inheritance.html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 78 - 100/80 - Multilevel Inheritance.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 3551,
       "exportedPath": "1.-python/2.-object-oriented/day-78-100/80-multilevel-inheritance.html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 78 - 100/81 - Hybrid and Hierarchical Inheritance.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 5302,
       "exportedPath": "1.-python/2.-object-oriented/day-78-100/81-hybrid-and-hierarchical-inheritance.html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 78 - 100/82 - Ex8 ~ solution.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 282,
       "exportedPath": "1.-python/2.-object-oriented/day-78-100/82-ex8-~-solution.html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 78 - 100/83 - Exercise 9.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 459,
       "exportedPath": "1.-python/2.-object-oriented/day-78-100/83-exercise-9.html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 78 - 100/84 - Time Module.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 3043,
       "exportedPath": "1.-python/2.-object-oriented/day-78-100/84-time-module.html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 78 - 100/85- Command Line Utility.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 2252,
       "exportedPath": "1.-python/2.-object-oriented/day-78-100/85-command-line-utility.html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 78 - 100/86 - Walrus Operator.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 2189,
       "exportedPath": "1.-python/2.-object-oriented/day-78-100/86-walrus-operator.html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 78 - 100/87 - Shutli Module.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 2412,
       "exportedPath": "1.-python/2.-object-oriented/day-78-100/87-shutli-module.html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 78 - 100/88 - Ex9 ~ solution.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 2829,
       "exportedPath": "1.-python/2.-object-oriented/day-78-100/88-ex9-~-solution.html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 78 - 100/89 - Requests Module.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 1491,
       "exportedPath": "1.-python/2.-object-oriented/day-78-100/89-requests-module.html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 78 - 100/90 - Exercise 10.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 304,
       "exportedPath": "1.-python/2.-object-oriented/day-78-100/90-exercise-10.html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 78 - 100/91 - Generators in Python.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 3029,
       "exportedPath": "1.-python/2.-object-oriented/day-78-100/91-generators-in-python.html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 78 - 100/92 - Function Caching.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 2293,
       "exportedPath": "1.-python/2.-object-oriented/day-78-100/92-function-caching.html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 78 - 100/93 - Exercise 10 ~ solution.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 658,
       "exportedPath": "1.-python/2.-object-oriented/day-78-100/93-exercise-10-~-solution.html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 78 - 100/94 - Exercise 11 ~ Drink Water Reminder.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 230,
       "exportedPath": "1.-python/2.-object-oriented/day-78-100/94-exercise-11-~-drink-water-reminder.html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 78 - 100/95  - Regular Expressions.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 3161,
       "exportedPath": "1.-python/2.-object-oriented/day-78-100/95-regular-expressions.html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 78 - 100/96 - AsyncIO in Python.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 1259,
       "exportedPath": "1.-python/2.-object-oriented/day-78-100/96-asyncio-in-python.html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 78 - 100/97 - MultiThreading.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 3509,
       "exportedPath": "1.-python/2.-object-oriented/day-78-100/97-multithreading.html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 78 - 100/98 - MultiProcessing in Python.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 4581,
       "exportedPath": "1.-python/2.-object-oriented/day-78-100/98-multiprocessing-in-python.html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 78 - 100/99 - Exercise 11 ~ solution.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 260,
       "exportedPath": "1.-python/2.-object-oriented/day-78-100/99-exercise-11-~-solution.html",
       "dependencies": []
     },
     "1. Python/2. Object-Oriented/Day 78 - 100/100 - Conclusion.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 2499,
       "exportedPath": "1.-python/2.-object-oriented/day-78-100/100-conclusion.html",
       "dependencies": []
     },
     "1. Python/index.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 47,
       "exportedPath": "1.-python/index.html",
       "dependencies": []
     },
     "2. LINUX/$PATH.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 1463,
       "exportedPath": "2.-linux/$path.html",
       "dependencies": []
     },
     "2. LINUX/index.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 0,
       "exportedPath": "2.-linux/index.html",
       "dependencies": []
     },
     "2. LINUX/XDG directory specs.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 3968,
       "exportedPath": "2.-linux/xdg-directory-specs.html",
       "dependencies": []
     },
     "2.1 Bash/Brace Expansion.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 2616,
       "exportedPath": "2.1-bash/brace-expansion.html",
       "dependencies": []
     },
     "2.1 Bash/index.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 0,
       "exportedPath": "2.1-bash/index.html",
       "dependencies": []
     },
     "2.1 Bash/Parameter expansion.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 4004,
       "exportedPath": "2.1-bash/parameter-expansion.html",
       "dependencies": []
     },
     "3. HTML/Assets/colspan & rowspan.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 3741,
       "exportedPath": "3.-html/assets/colspan-&-rowspan.png",
       "dependencies": []
     },
     "3. HTML/Assets/elements_inline.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 14838,
       "exportedPath": "3.-html/assets/elements_inline.png",
       "dependencies": []
     },
     "3. HTML/Assets/favicon.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 4138,
       "exportedPath": "3.-html/assets/favicon.png",
       "dependencies": []
     },
     "3. HTML/Assets/heading.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 26300,
       "exportedPath": "3.-html/assets/heading.png",
       "dependencies": []
     },
     "3. HTML/Assets/how page works.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 520136,
       "exportedPath": "3.-html/assets/how-page-works.png",
       "dependencies": []
     },
     "3. HTML/Assets/html example.mp4": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 3121278,
       "exportedPath": "3.-html/assets/html-example.mp4",
       "dependencies": []
     },
     "3. HTML/Assets/Inrroduction1.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 12079,
       "exportedPath": "3.-html/assets/inrroduction1.png",
       "dependencies": []
     },
     "3. HTML/Assets/list_description.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 5598,
       "exportedPath": "3.-html/assets/list_description.png",
       "dependencies": []
     },
     "3. HTML/Assets/list_ordered.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 2999,
       "exportedPath": "3.-html/assets/list_ordered.png",
       "dependencies": []
     },
     "3. HTML/Assets/list_unordered.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 1868,
       "exportedPath": "3.-html/assets/list_unordered.png",
       "dependencies": []
     },
     "3. HTML/Assets/paragraph.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 7302,
       "exportedPath": "3.-html/assets/paragraph.png",
       "dependencies": []
     },
     "3. HTML/Assets/Pictorial Representation of Tags.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 24961,
       "exportedPath": "3.-html/assets/pictorial-representation-of-tags.png",
       "dependencies": []
     },
     "3. HTML/Assets/required attribute.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 7770,
       "exportedPath": "3.-html/assets/required-attribute.png",
       "dependencies": []
     },
     "3. HTML/Assets/semantic Tags.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 123970,
       "exportedPath": "3.-html/assets/semantic-tags.png",
       "dependencies": []
     },
     "3. HTML/Assets/Table.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 27422,
       "exportedPath": "3.-html/assets/table.png",
       "dependencies": []
     },
     "3. HTML/Assets/webpage-structure.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 519802,
       "exportedPath": "3.-html/assets/webpage-structure.png",
       "dependencies": []
     },
     "3. HTML/0. Emmet - The VS Code linter.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 892,
       "exportedPath": "3.-html/0.-emmet-the-vs-code-linter.html",
       "dependencies": []
     },
     "3. HTML/0. How an website works.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 1678,
       "exportedPath": "3.-html/0.-how-an-website-works.html",
       "dependencies": [
@@ -1210,19 +1159,19 @@
       ]
     },
     "3. HTML/1. HTML Page structure.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 3256,
       "exportedPath": "3.-html/1.-html-page-structure.html",
       "dependencies": []
     },
     "3. HTML/1e. Emmet - The VS Code linter.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 1042,
       "exportedPath": "3.-html/1e.-emmet-the-vs-code-linter.html",
       "dependencies": []
     },
     "3. HTML/2. HTML Elements.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 3101,
       "exportedPath": "3.-html/2.-html-elements.html",
       "dependencies": [
@@ -1230,19 +1179,19 @@
       ]
     },
     "3. HTML/3. Attributes & Comments.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 3129,
       "exportedPath": "3.-html/3.-attributes-&-comments.html",
       "dependencies": []
     },
     "3. HTML/4. Id & Classes.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 1082,
       "exportedPath": "3.-html/4.-id-&-classes.html",
       "dependencies": []
     },
     "3. HTML/5. Meta Tags in HTML.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 2709,
       "exportedPath": "3.-html/5.-meta-tags-in-html.html",
       "dependencies": [
@@ -1250,7 +1199,7 @@
       ]
     },
     "3. HTML/6a. Short list of HTML Tags.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 3658,
       "exportedPath": "3.-html/6a.-short-list-of-html-tags.html",
       "dependencies": [
@@ -1258,7 +1207,7 @@
       ]
     },
     "3. HTML/6b. Brief list of HTML Tags.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 4960,
       "exportedPath": "3.-html/6b.-brief-list-of-html-tags.html",
       "dependencies": [
@@ -1267,7 +1216,7 @@
       ]
     },
     "3. HTML/7. HTML Lists.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 958,
       "exportedPath": "3.-html/7.-html-lists.html",
       "dependencies": [
@@ -1277,7 +1226,7 @@
       ]
     },
     "3. HTML/8. Input methods in HTML.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 815,
       "exportedPath": "3.-html/8.-input-methods-in-html.html",
       "dependencies": [
@@ -1285,13 +1234,13 @@
       ]
     },
     "3. HTML/9. Forms in HTML.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 2864,
       "exportedPath": "3.-html/9.-forms-in-html.html",
       "dependencies": []
     },
     "3. HTML/10. Tables in HTML.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 2350,
       "exportedPath": "3.-html/10.-tables-in-html.html",
       "dependencies": [
@@ -1299,37 +1248,37 @@
       ]
     },
     "3. HTML/11. Textarea & Select Element.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 2311,
       "exportedPath": "3.-html/11.-textarea-&-select-element.html",
       "dependencies": []
     },
     "3. HTML/12. Iframes in HTML.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 1471,
       "exportedPath": "3.-html/12.-iframes-in-html.html",
       "dependencies": []
     },
     "3. HTML/13. SVG in HTML.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 1913,
       "exportedPath": "3.-html/13.-svg-in-html.html",
       "dependencies": []
     },
     "3. HTML/14. HTML Entities.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 997,
       "exportedPath": "3.-html/14.-html-entities.html",
       "dependencies": []
     },
     "3. HTML/15. Obsolete HTML Tags.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 1389,
       "exportedPath": "3.-html/15.-obsolete-html-tags.html",
       "dependencies": []
     },
     "3. HTML/16. HTML Semantic Tags.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 2664,
       "exportedPath": "3.-html/16.-html-semantic-tags.html",
       "dependencies": [
@@ -1337,271 +1286,271 @@
       ]
     },
     "3. HTML/College Cheat-sheet.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 238,
       "exportedPath": "3.-html/college-cheat-sheet.html",
       "dependencies": []
     },
     "3. HTML/Forms in HTML.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 2930,
       "exportedPath": "3.-html/forms-in-html.html",
       "dependencies": []
     },
     "3. HTML/index.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 0,
       "exportedPath": "3.-html/index.html",
       "dependencies": []
     },
     "3. HTML/Page Layout Techniques.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 1281,
       "exportedPath": "3.-html/page-layout-techniques.html",
       "dependencies": []
     },
     "4. CSS/Assets/background_color.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 32233,
       "exportedPath": "4.-css/assets/background_color.png",
       "dependencies": []
     },
     "4. CSS/Assets/background_image.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 401513,
       "exportedPath": "4.-css/assets/background_image.png",
       "dependencies": []
     },
     "4. CSS/Assets/background_position.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 108643,
       "exportedPath": "4.-css/assets/background_position.png",
       "dependencies": []
     },
     "4. CSS/Assets/background_repeat_no_repeat.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 92936,
       "exportedPath": "4.-css/assets/background_repeat_no_repeat.png",
       "dependencies": []
     },
     "4. CSS/Assets/background_repeat_repeat.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 211088,
       "exportedPath": "4.-css/assets/background_repeat_repeat.png",
       "dependencies": []
     },
     "4. CSS/Assets/background_repeat_x.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 104227,
       "exportedPath": "4.-css/assets/background_repeat_x.png",
       "dependencies": []
     },
     "4. CSS/Assets/background_repeat_y.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 196093,
       "exportedPath": "4.-css/assets/background_repeat_y.png",
       "dependencies": []
     },
     "4. CSS/Assets/background_shorthand.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 108402,
       "exportedPath": "4.-css/assets/background_shorthand.png",
       "dependencies": []
     },
     "4. CSS/Assets/background_size_contain.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 355616,
       "exportedPath": "4.-css/assets/background_size_contain.png",
       "dependencies": []
     },
     "4. CSS/Assets/background_size_cover.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 429347,
       "exportedPath": "4.-css/assets/background_size_cover.png",
       "dependencies": []
     },
     "4. CSS/Assets/background_size_custom.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 520271,
       "exportedPath": "4.-css/assets/background_size_custom.png",
       "dependencies": []
     },
     "4. CSS/Assets/basic_syntax.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 38662,
       "exportedPath": "4.-css/assets/basic_syntax.png",
       "dependencies": []
     },
     "4. CSS/Assets/border-collapse.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 38864,
       "exportedPath": "4.-css/assets/border-collapse.png",
       "dependencies": []
     },
     "4. CSS/Assets/border-color.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 48912,
       "exportedPath": "4.-css/assets/border-color.png",
       "dependencies": []
     },
     "4. CSS/Assets/border-radius.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 35988,
       "exportedPath": "4.-css/assets/border-radius.png",
       "dependencies": []
     },
     "4. CSS/Assets/border-seperate.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 39088,
       "exportedPath": "4.-css/assets/border-seperate.png",
       "dependencies": []
     },
     "4. CSS/Assets/border-spacing.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 39105,
       "exportedPath": "4.-css/assets/border-spacing.png",
       "dependencies": []
     },
     "4. CSS/Assets/border-style.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 41571,
       "exportedPath": "4.-css/assets/border-style.png",
       "dependencies": []
     },
     "4. CSS/Assets/border-width.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 30732,
       "exportedPath": "4.-css/assets/border-width.png",
       "dependencies": []
     },
     "4. CSS/Assets/color_name.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 36324,
       "exportedPath": "4.-css/assets/color_name.png",
       "dependencies": []
     },
     "4. CSS/Assets/css_External.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 78948,
       "exportedPath": "4.-css/assets/css_external.png",
       "dependencies": []
     },
     "4. CSS/Assets/css_Internal.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 70291,
       "exportedPath": "4.-css/assets/css_internal.png",
       "dependencies": []
     },
     "4. CSS/Assets/Font-Family.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 43837,
       "exportedPath": "4.-css/assets/font-family.png",
       "dependencies": []
     },
     "4. CSS/Assets/Font-Size.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 53911,
       "exportedPath": "4.-css/assets/font-size.png",
       "dependencies": []
     },
     "4. CSS/Assets/Font-Style.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 63552,
       "exportedPath": "4.-css/assets/font-style.png",
       "dependencies": []
     },
     "4. CSS/Assets/Font-Varient.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 52356,
       "exportedPath": "4.-css/assets/font-varient.png",
       "dependencies": []
     },
     "4. CSS/Assets/Font-Weight.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 59169,
       "exportedPath": "4.-css/assets/font-weight.png",
       "dependencies": []
     },
     "4. CSS/Assets/hex.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 54186,
       "exportedPath": "4.-css/assets/hex.png",
       "dependencies": []
     },
     "4. CSS/Assets/hsl.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 47966,
       "exportedPath": "4.-css/assets/hsl.png",
       "dependencies": []
     },
     "4. CSS/Assets/hsla.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 45574,
       "exportedPath": "4.-css/assets/hsla.png",
       "dependencies": []
     },
     "4. CSS/Assets/inline css.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 53929,
       "exportedPath": "4.-css/assets/inline-css.png",
       "dependencies": []
     },
     "4. CSS/Assets/logo-blue.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 35387,
       "exportedPath": "4.-css/assets/logo-blue.png",
       "dependencies": []
     },
     "4. CSS/Assets/opl.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 1371884,
       "exportedPath": "4.-css/assets/opl.png",
       "dependencies": []
     },
     "4. CSS/Assets/rgb.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 47960,
       "exportedPath": "4.-css/assets/rgb.png",
       "dependencies": []
     },
     "4. CSS/Assets/rgba.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 56578,
       "exportedPath": "4.-css/assets/rgba.png",
       "dependencies": []
     },
     "4. CSS/Assets/selector-Class.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 64961,
       "exportedPath": "4.-css/assets/selector-class.png",
       "dependencies": []
     },
     "4. CSS/Assets/Selector-Element.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 82005,
       "exportedPath": "4.-css/assets/selector-element.png",
       "dependencies": []
     },
     "4. CSS/Assets/selector-ID.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 73729,
       "exportedPath": "4.-css/assets/selector-id.png",
       "dependencies": []
     },
     "4. CSS/Assets/selector-universal.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 58658,
       "exportedPath": "4.-css/assets/selector-universal.png",
       "dependencies": []
     },
     "4. CSS/Assets/shorthand_border.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 33628,
       "exportedPath": "4.-css/assets/shorthand_border.png",
       "dependencies": []
     },
     "4. CSS/1. Syntax of CSS.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 946,
       "exportedPath": "4.-css/1.-syntax-of-css.html",
       "dependencies": [
@@ -1609,7 +1558,7 @@
       ]
     },
     "4. CSS/2a. Ways to add CSS.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 3469,
       "exportedPath": "4.-css/2a.-ways-to-add-css.html",
       "dependencies": [
@@ -1619,19 +1568,19 @@
       ]
     },
     "4. CSS/2b.  Specificity in CSS.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 3043,
       "exportedPath": "4.-css/2b.-specificity-in-css.html",
       "dependencies": []
     },
     "4. CSS/2c. Comments in CSS.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 1288,
       "exportedPath": "4.-css/2c.-comments-in-css.html",
       "dependencies": []
     },
     "4. CSS/3. Selectors in CSS.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 5448,
       "exportedPath": "4.-css/3.-selectors-in-css.html",
       "dependencies": [
@@ -1642,7 +1591,7 @@
       ]
     },
     "4. CSS/4. Color is CSS.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 5802,
       "exportedPath": "4.-css/4.-color-is-css.html",
       "dependencies": [
@@ -1655,7 +1604,7 @@
       ]
     },
     "4. CSS/5. Fonts in CSS.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 6478,
       "exportedPath": "4.-css/5.-fonts-in-css.html",
       "dependencies": [
@@ -1667,7 +1616,7 @@
       ]
     },
     "4. CSS/6a. Backgrounds in CSS.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 5035,
       "exportedPath": "4.-css/6a.-backgrounds-in-css.html",
       "dependencies": [
@@ -1685,7 +1634,7 @@
       ]
     },
     "4. CSS/6b. Borders in CSS.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 5115,
       "exportedPath": "4.-css/6b.-borders-in-css.html",
       "dependencies": [
@@ -1700,595 +1649,595 @@
       ]
     },
     "4. CSS/7a. Display property in CSS.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 807,
       "exportedPath": "4.-css/7a.-display-property-in-css.html",
       "dependencies": []
     },
     "4. CSS/7b. Text styling in CSS.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 1227,
       "exportedPath": "4.-css/7b.-text-styling-in-css.html",
       "dependencies": []
     },
     "4. CSS/index.canvas": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 127,
       "exportedPath": "4.-css/index.html",
       "dependencies": []
     },
     "5. JavaScript/index.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 0,
       "exportedPath": "5.-javascript/index.html",
       "dependencies": []
     },
     "5. JavaScript/JSON & JSONC.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 6521,
       "exportedPath": "5.-javascript/json-&-jsonc.html",
       "dependencies": []
     },
+    "6. C++/_Google C++ Guidelines (me).md": {
+      "modifiedTime": 1735411785724,
+      "sourceSize": 3212,
+      "exportedPath": "6.-c++/_google-c++-guidelines-(me).html",
+      "dependencies": []
+    },
     "6. C++/_Modern C++ Coding Guidelines.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 9316,
       "exportedPath": "6.-c++/_modern-c++-coding-guidelines.html",
       "dependencies": []
     },
-    "6. C++/0.Google C++ Guidelines (me).md": {
-      "modifiedTime": 1735410322002,
-      "sourceSize": 3212,
-      "exportedPath": "6.-c++/0.google-c++-guidelines-(me).html",
-      "dependencies": []
-    },
     "6. C++/Constants.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 1050,
       "exportedPath": "6.-c++/constants.html",
       "dependencies": []
     },
     "6. C++/Enumerated Constants.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 1358,
       "exportedPath": "6.-c++/enumerated-constants.html",
       "dependencies": []
     },
     "6. C++/Formatting Output.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 970,
       "exportedPath": "6.-c++/formatting-output.html",
       "dependencies": []
     },
     "6. C++/index.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 11,
       "exportedPath": "6.-c++/index.html",
       "dependencies": []
     },
     "Hyprland/Docs.md": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 77,
       "exportedPath": "hyprland/docs.html",
       "dependencies": []
     },
     "index.canvas": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 681,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "lib/media/esacpe-sequence-charactars.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 23631,
       "exportedPath": "lib/media/esacpe-sequence-charactars.png",
       "dependencies": []
     },
     "lib/media/union.jpg": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 299469,
       "exportedPath": "lib/media/union.jpg",
       "dependencies": []
     },
     "lib/media/intersection.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 4641,
       "exportedPath": "lib/media/intersection.png",
       "dependencies": []
     },
     "lib/media/oop.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 32615,
       "exportedPath": "lib/media/oop.png",
       "dependencies": []
     },
     "lib/media/sdd.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 47378,
       "exportedPath": "lib/media/sdd.png",
       "dependencies": []
     },
     "3.-html/assets/webpage-structure.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 519802,
       "exportedPath": "3.-html/assets/webpage-structure.png",
       "dependencies": []
     },
     "3.-html/assets/how-page-works.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 520136,
       "exportedPath": "3.-html/assets/how-page-works.png",
       "dependencies": []
     },
     "3.-html/assets/elements_inline.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 14838,
       "exportedPath": "3.-html/assets/elements_inline.png",
       "dependencies": []
     },
     "3.-html/assets/favicon.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 4138,
       "exportedPath": "3.-html/assets/favicon.png",
       "dependencies": []
     },
     "3.-html/assets/pictorial-representation-of-tags.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 24961,
       "exportedPath": "3.-html/assets/pictorial-representation-of-tags.png",
       "dependencies": []
     },
     "3.-html/assets/heading.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 26300,
       "exportedPath": "3.-html/assets/heading.png",
       "dependencies": []
     },
     "3.-html/assets/paragraph.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 7302,
       "exportedPath": "3.-html/assets/paragraph.png",
       "dependencies": []
     },
     "3.-html/assets/list_unordered.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 1868,
       "exportedPath": "3.-html/assets/list_unordered.png",
       "dependencies": []
     },
     "3.-html/assets/list_ordered.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 2999,
       "exportedPath": "3.-html/assets/list_ordered.png",
       "dependencies": []
     },
     "3.-html/assets/list_description.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 5598,
       "exportedPath": "3.-html/assets/list_description.png",
       "dependencies": []
     },
     "3.-html/assets/required-attribute.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 7770,
       "exportedPath": "3.-html/assets/required-attribute.png",
       "dependencies": []
     },
     "3.-html/assets/table.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 27422,
       "exportedPath": "3.-html/assets/table.png",
       "dependencies": []
     },
     "3.-html/assets/semantic-tags.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 123970,
       "exportedPath": "3.-html/assets/semantic-tags.png",
       "dependencies": []
     },
     "4.-css/assets/basic_syntax.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 38662,
       "exportedPath": "4.-css/assets/basic_syntax.png",
       "dependencies": []
     },
     "4.-css/assets/inline-css.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 53929,
       "exportedPath": "4.-css/assets/inline-css.png",
       "dependencies": []
     },
     "4.-css/assets/css_internal.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 70291,
       "exportedPath": "4.-css/assets/css_internal.png",
       "dependencies": []
     },
     "4.-css/assets/css_external.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 78948,
       "exportedPath": "4.-css/assets/css_external.png",
       "dependencies": []
     },
     "4.-css/assets/selector-universal.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 58658,
       "exportedPath": "4.-css/assets/selector-universal.png",
       "dependencies": []
     },
     "4.-css/assets/selector-element.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 82005,
       "exportedPath": "4.-css/assets/selector-element.png",
       "dependencies": []
     },
     "4.-css/assets/selector-id.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 73729,
       "exportedPath": "4.-css/assets/selector-id.png",
       "dependencies": []
     },
     "4.-css/assets/selector-class.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 64961,
       "exportedPath": "4.-css/assets/selector-class.png",
       "dependencies": []
     },
     "4.-css/assets/color_name.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 36324,
       "exportedPath": "4.-css/assets/color_name.png",
       "dependencies": []
     },
     "4.-css/assets/hex.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 54186,
       "exportedPath": "4.-css/assets/hex.png",
       "dependencies": []
     },
     "4.-css/assets/rgb.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 47960,
       "exportedPath": "4.-css/assets/rgb.png",
       "dependencies": []
     },
     "4.-css/assets/rgba.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 56578,
       "exportedPath": "4.-css/assets/rgba.png",
       "dependencies": []
     },
     "4.-css/assets/hsl.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 47966,
       "exportedPath": "4.-css/assets/hsl.png",
       "dependencies": []
     },
     "4.-css/assets/hsla.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 45574,
       "exportedPath": "4.-css/assets/hsla.png",
       "dependencies": []
     },
     "4.-css/assets/font-family.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 43837,
       "exportedPath": "4.-css/assets/font-family.png",
       "dependencies": []
     },
     "4.-css/assets/font-style.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 63552,
       "exportedPath": "4.-css/assets/font-style.png",
       "dependencies": []
     },
     "4.-css/assets/font-size.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 53911,
       "exportedPath": "4.-css/assets/font-size.png",
       "dependencies": []
     },
     "4.-css/assets/font-varient.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 52356,
       "exportedPath": "4.-css/assets/font-varient.png",
       "dependencies": []
     },
     "4.-css/assets/font-weight.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 59169,
       "exportedPath": "4.-css/assets/font-weight.png",
       "dependencies": []
     },
     "4.-css/assets/background_shorthand.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 108402,
       "exportedPath": "4.-css/assets/background_shorthand.png",
       "dependencies": []
     },
     "4.-css/assets/background_color.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 32233,
       "exportedPath": "4.-css/assets/background_color.png",
       "dependencies": []
     },
     "4.-css/assets/background_image.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 401513,
       "exportedPath": "4.-css/assets/background_image.png",
       "dependencies": []
     },
     "4.-css/assets/background_repeat_repeat.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 211088,
       "exportedPath": "4.-css/assets/background_repeat_repeat.png",
       "dependencies": []
     },
     "4.-css/assets/background_repeat_no_repeat.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 92936,
       "exportedPath": "4.-css/assets/background_repeat_no_repeat.png",
       "dependencies": []
     },
     "4.-css/assets/background_repeat_x.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 104227,
       "exportedPath": "4.-css/assets/background_repeat_x.png",
       "dependencies": []
     },
     "4.-css/assets/background_repeat_y.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 196093,
       "exportedPath": "4.-css/assets/background_repeat_y.png",
       "dependencies": []
     },
     "4.-css/assets/background_size_cover.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 429347,
       "exportedPath": "4.-css/assets/background_size_cover.png",
       "dependencies": []
     },
     "4.-css/assets/background_size_contain.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 355616,
       "exportedPath": "4.-css/assets/background_size_contain.png",
       "dependencies": []
     },
     "4.-css/assets/background_size_custom.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 520271,
       "exportedPath": "4.-css/assets/background_size_custom.png",
       "dependencies": []
     },
     "4.-css/assets/background_position.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 108643,
       "exportedPath": "4.-css/assets/background_position.png",
       "dependencies": []
     },
     "4.-css/assets/border-style.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 41571,
       "exportedPath": "4.-css/assets/border-style.png",
       "dependencies": []
     },
     "4.-css/assets/border-color.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 48912,
       "exportedPath": "4.-css/assets/border-color.png",
       "dependencies": []
     },
     "4.-css/assets/border-width.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 30732,
       "exportedPath": "4.-css/assets/border-width.png",
       "dependencies": []
     },
     "4.-css/assets/border-radius.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 35988,
       "exportedPath": "4.-css/assets/border-radius.png",
       "dependencies": []
     },
     "4.-css/assets/border-collapse.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 38864,
       "exportedPath": "4.-css/assets/border-collapse.png",
       "dependencies": []
     },
     "4.-css/assets/border-seperate.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 39088,
       "exportedPath": "4.-css/assets/border-seperate.png",
       "dependencies": []
     },
     "4.-css/assets/border-spacing.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 39105,
       "exportedPath": "4.-css/assets/border-spacing.png",
       "dependencies": []
     },
     "4.-css/assets/shorthand_border.png": {
-      "modifiedTime": 1735410322002,
+      "modifiedTime": 1735411785724,
       "sourceSize": 33628,
       "exportedPath": "4.-css/assets/shorthand_border.png",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1735410812583,
+      "modifiedTime": 1735411785724,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1735410812583,
+      "modifiedTime": 1735411785724,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1735410812583,
+      "modifiedTime": 1735411785724,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1735410812583,
+      "modifiedTime": 1735411785724,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1735410812583,
+      "modifiedTime": 1735411785724,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1735410812583,
+      "modifiedTime": 1735411785724,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1735410812583,
+      "modifiedTime": 1735411785724,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1735410812583,
+      "modifiedTime": 1735411785724,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1735410812583,
+      "modifiedTime": 1735411785724,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1735410812583,
+      "modifiedTime": 1735411785724,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1735410812583,
+      "modifiedTime": 1735411785724,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1735410812583,
+      "modifiedTime": 1735411785724,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1735410812583,
+      "modifiedTime": 1735411785724,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1735410812583,
+      "modifiedTime": 1735411785724,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1735410812583,
+      "modifiedTime": 1735411785724,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1735410812583,
-      "sourceSize": 192438,
+      "modifiedTime": 1735411785724,
+      "sourceSize": 192436,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1735410812583,
+      "modifiedTime": 1735411785724,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1735410812583,
+      "modifiedTime": 1735411785724,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1735410812583,
+      "modifiedTime": 1735411785724,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1735410812583,
+      "modifiedTime": 1735411785724,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1735410812583,
+      "modifiedTime": 1735411785724,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1735410812583,
+      "modifiedTime": 1735411785724,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1735410812583,
+      "modifiedTime": 1735411785724,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1735410812583,
+      "modifiedTime": 1735411785724,
       "sourceSize": 88689,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1735410812583,
-      "sourceSize": 14641,
+      "modifiedTime": 1735411785724,
+      "sourceSize": 14639,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1735410812583,
+      "modifiedTime": 1735411785724,
       "sourceSize": 131021,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1735410812583,
+      "modifiedTime": 1735411785724,
       "sourceSize": 2246275,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1735410812583,
-      "sourceSize": 288,
+      "modifiedTime": 1735411785724,
+      "sourceSize": 285,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1735410812583,
+      "modifiedTime": 1735411785724,
       "sourceSize": 312,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1735410812583,
+      "modifiedTime": 1735411785724,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
